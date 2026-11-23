@@ -101,6 +101,8 @@ header nav a {
 .history h2 {
     color: var(--primary-color);
     margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--secondary-color);
 }
 
 .history-content {
